@@ -1,0 +1,20 @@
+2023-05-13 23:29:08,381 - INFO - Scraping started.
+2023-05-13 23:29:08,384 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-13 23:29:09,390 - WARNING - Incompatible release of chromedriver (version 112.0.5615.49) detected in PATH: C:\Users\eti\Documents\chromedriver\chromedriver.exe
+2023-05-13 23:36:51,464 - ERROR - An error occurred during scraping: 'NoneType' object has no attribute 'tbody'
+2023-05-13 23:36:58,809 - INFO - Scraping completed.
+2023-05-13 23:37:02,899 - INFO - Storing data started.
+2023-05-13 23:38:11,741 - INFO - Storing data completed.
+2023-05-14 00:32:56,874 - INFO - Scraping started.
+2023-05-14 00:32:56,875 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-14 00:32:57,503 - WARNING - Incompatible release of chromedriver (version 112.0.5615.49) detected in PATH: C:\Users\eti\Documents\chromedriver\chromedriver.exe
+2023-05-14 00:40:16,132 - ERROR - An error occurred during scraping: 'NoneType' object has no attribute 'tbody'
+2023-05-14 00:40:23,437 - INFO - Scraping completed.
+2023-05-14 00:40:27,497 - INFO - Storing data started.
+2023-05-14 00:41:32,943 - INFO - Storing data completed.
+2023-05-14 00:41:32,943 - INFO - Scraping started.
+2023-05-14 00:41:32,944 - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-14 00:41:34,343 - WARNING - Incompatible release of chromedriver (version 112.0.5615.49) detected in PATH: C:\Users\eti\Documents\chromedriver\chromedriver.exe
+2023-05-14 00:49:04,184 - INFO - Scraping completed.
+2023-05-14 00:49:08,247 - INFO - Storing data started.
+2023-05-14 00:52:29,845 - INFO - Storing data completed.
